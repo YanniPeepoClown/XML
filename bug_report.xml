@@ -1,1 +1,9 @@
-
+<xml>
+<header>заголовок</header>
+<description>Описание</description>
+<ar>текущий результат</ar>
+<er>ожидаемый результат</er>
+<attachment>вложения</attachment>
+<severity>серьезность</severity>
+<priority>приоритет</priority>
+<enviroment>окружение</enviroment>
